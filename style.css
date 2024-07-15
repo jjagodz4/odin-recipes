@@ -1,0 +1,41 @@
+* {
+    background-color: black;
+    color: white;
+    font-family: "Courier New", Arial, "Times New Roman";
+}
+
+h1 {
+    background-color: yellow;
+    color: black; 
+    text-align: center;
+}
+
+ul {
+    color: black; 
+    background-color: yellow; 
+    font-weight: bold;
+}
+
+li {
+    color: black; 
+}
+
+a {
+    background-color: yellow;
+}
+
+a:link {
+    color: black;
+}
+
+a:visited {
+    color: green;
+}
+
+a:hover {
+    color: yellowgreen;
+}
+
+a:active {
+    color: red; 
+}
